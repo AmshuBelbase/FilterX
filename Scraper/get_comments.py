@@ -103,4 +103,5 @@ def scrape_data(url):
         print("Done Scraping! Comments:", c)
 
 
-scrape_data("https://www.instagram.com/p/DIHSfqPNuDW/")
+# scrape_data("https://www.instagram.com/p/DIHSfqPNuDW/")
+scrape_data("https://www.instagram.com/p/DIcRig7Mrwl/")
